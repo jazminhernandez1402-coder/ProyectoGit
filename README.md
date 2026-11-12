@@ -11,3 +11,8 @@ Este repositorio permite practicar el trabajo organizado con control de versione
 Esta seccion fue agregada desde la rama feature/documentacion.
 
 PRACTICA GIT Y GITHUB 3
+
+PRACTICA GIT Y GITHUB 4
+
+## Sincronizacion
+Este cambio se realizo desde una copia clonada del repositorio
